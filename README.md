@@ -1,6 +1,6 @@
 # machine-learning-with-IBM-Cognitive-Class.ai
 
-Includes everything I learnt throughout the course.
+Includes everything I learned throughout the course.
 
 Transcripts, notebooks and datasets have been included. 
 
